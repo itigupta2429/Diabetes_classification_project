@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+Data/Raw/
+Data/Interim/
+Data/Processed/
+
+# Outputs
+Outputs/Logs/
+Outputs/Models/
+Outputs/Metrics/
+
+# VS Code
+.vscode/
