@@ -22,3 +22,13 @@ Outputs/Metrics/
 
 # VS Code
 .vscode/
+
+# Ignore pickle & model files
+*.pkl
+*.pickle
+*.joblib
+*.sav
+*.pt
+*.h5
+*.model
+*.csv
