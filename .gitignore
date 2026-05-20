@@ -32,3 +32,7 @@ Outputs/Metrics/
 *.h5
 *.model
 *.csv
+
+# Exception: Streamlit deployment model (2.5MB, safe for GitHub)
+!model.pkl
+!feature_meta.json
